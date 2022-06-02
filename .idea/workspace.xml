@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TaskFramework:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6635503-e218-4299-a5e6-1b4126851bd5" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="21SB8V4bnegv7hkrGxzuTxNmFf5" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vip-v2-netty" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.enjoyedu.ch2.tools.myTest" />
+      <recent name="cn.enjoyedu.ch3" />
+      <recent name="cn.enjoyedu.ch8b" />
+      <recent name="cn.enjoyedu.ch7.safeclass.safepublish" />
+      <recent name="cn.enjoyedu.framework.vo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\腾讯课堂\01-并发编程\vip-v2-concurrent\concurrent\src\main\java\cn\enjoyedu\senyang\demo" />
+      <recent name="C:\work\腾讯课堂\01-并发编程\vip-v2-concurrent\concurrent\src\main\java\cn\enjoyedu\senyang\vo" />
+      <recent name="E:\腾讯课堂\01-并发编程\vip-v2-concurrent\concurrent\src\main\java\cn\enjoyedu\ch5\bitwise" />
+      <recent name="D:\XiangXue\vipLesson\ConcurrentV2\code\vip-v2-concurrent\concurrent\src\main\java\cn\enjoyedu\cha" />
+      <recent name="D:\XiangXue\vipLesson\ConcurrentV2\code\vip-v2-concurrent\concurrent\src\main\java\cn\enjoyedu\ch9" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TempTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="TempTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.ch4.mytest.TempTest" />
+      <module name="concurrent" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoyedu.ch4.mytest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadLocalOOM" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.ch1.threadlocal.ThreadLocalOOM" />
+      <module name="concurrent" />
+      <option name="VM_PARAMETERS" value="-Xmx256m" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseAtomicIntegerFieldUpdater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.ch3.mytest.UseAtomicIntegerFieldUpdater" />
+      <module name="concurrent" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoyedu.ch3.mytest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseAtomicReference (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.ch3.mytest.UseAtomicReference" />
+      <module name="concurrent" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoyedu.ch3.mytest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseAtomicStampedReference (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.ch3.mytest.UseAtomicStampedReference" />
+      <module name="concurrent" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoyedu.ch3.mytest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseAtomicStampedReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.ch3.UseAtomicStampedReference" />
+      <module name="concurrent" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoyedu.ch3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deaklock" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.55(2)" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/deaklock/index" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="deadlock:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/deaklock" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_vip-v2-concurrent_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56767" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="deadlock:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="taskFramework" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.55(2)" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/taskFramework/index" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <deployment>
+        <artifact name="TaskFramework:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/taskFramework" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_vip-v2-concurrent" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56672" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="TaskFramework:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ThreadLocalOOM" />
+      <item itemvalue="Application.UseAtomicReference (1)" />
+      <item itemvalue="Application.UseAtomicStampedReference" />
+      <item itemvalue="Application.UseAtomicStampedReference (1)" />
+      <item itemvalue="Application.UseAtomicIntegerFieldUpdater" />
+      <item itemvalue="Application.TempTest" />
+      <item itemvalue="Tomcat Server.taskFramework" />
+      <item itemvalue="Tomcat Server.deaklock" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TempTest" />
+        <item itemvalue="Application.UseAtomicIntegerFieldUpdater" />
+        <item itemvalue="Application.UseAtomicStampedReference (1)" />
+        <item itemvalue="Application.UseAtomicStampedReference" />
+        <item itemvalue="Application.UseAtomicReference (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6635503-e218-4299-a5e6-1b4126851bd5" name="Default" comment="" />
+      <created>1555377896540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555377896540</updated>
+      <workItem from="1555377899321" duration="19941000" />
+      <workItem from="1555466393365" duration="34811000" />
+      <workItem from="1555857987309" duration="2881000" />
+      <workItem from="1555896776377" duration="51705000" />
+      <workItem from="1556289187234" duration="73000" />
+      <workItem from="1556289306067" duration="487000" />
+      <workItem from="1556289809266" duration="23586000" />
+      <workItem from="1557025117551" duration="889000" />
+      <workItem from="1557050578715" duration="9674000" />
+      <workItem from="1557219968954" duration="18384000" />
+      <workItem from="1557365235757" duration="1834000" />
+      <workItem from="1557396002724" duration="10761000" />
+      <workItem from="1557505593736" duration="43000" />
+      <workItem from="1557505647343" duration="1345000" />
+      <workItem from="1557643291660" duration="13074000" />
+      <workItem from="1557715974576" duration="2225000" />
+      <workItem from="1557727875081" duration="4936000" />
+      <workItem from="1557818144707" duration="11926000" />
+      <workItem from="1557899656504" duration="5141000" />
+      <workItem from="1557971631998" duration="1833000" />
+      <workItem from="1557985419392" duration="11729000" />
+      <workItem from="1558072077804" duration="5336000" />
+      <workItem from="1558097709337" duration="12000" />
+      <workItem from="1558183169467" duration="1823000" />
+      <workItem from="1558250000754" duration="11676000" />
+      <workItem from="1558320334356" duration="1092000" />
+      <workItem from="1558337092605" duration="1758000" />
+      <workItem from="1558421679163" duration="10038000" />
+      <workItem from="1558579056107" duration="1243000" />
+      <workItem from="1558591717710" duration="13094000" />
+      <workItem from="1637924453206" duration="9507000" />
+      <workItem from="1637937301288" duration="3368000" />
+      <workItem from="1637980643598" duration="4117000" />
+      <workItem from="1638016760109" duration="6432000" />
+      <workItem from="1638095229245" duration="5123000" />
+      <workItem from="1638151086150" duration="1295000" />
+      <workItem from="1638153095169" duration="3129000" />
+      <workItem from="1638179767142" duration="10788000" />
+      <workItem from="1638234421559" duration="12573000" />
+      <workItem from="1638270403041" duration="6124000" />
+      <workItem from="1638277943589" duration="1031000" />
+      <workItem from="1638320840119" duration="5934000" />
+      <workItem from="1638353908230" duration="5498000" />
+      <workItem from="1638791570588" duration="3197000" />
+      <workItem from="1638872762277" duration="4209000" />
+      <workItem from="1638959980034" duration="2196000" />
+      <workItem from="1639133254036" duration="645000" />
+      <workItem from="1639223495485" duration="591000" />
+      <workItem from="1639391228223" duration="2841000" />
+      <workItem from="1639656804148" duration="4396000" />
+      <workItem from="1639995015842" duration="1232000" />
+      <workItem from="1640004253691" duration="623000" />
+      <workItem from="1640096744979" duration="871000" />
+      <workItem from="1640169166360" duration="630000" />
+      <workItem from="1640600318117" duration="1725000" />
+      <workItem from="1641202616720" duration="1374000" />
+      <workItem from="1641554267152" duration="9261000" />
+      <workItem from="1642423825997" duration="707000" />
+      <workItem from="1642935047462" duration="2933000" />
+      <workItem from="1642938397704" duration="4533000" />
+      <workItem from="1643195124466" duration="5175000" />
+      <workItem from="1644586944445" duration="2776000" />
+      <workItem from="1644630872272" duration="14127000" />
+      <workItem from="1644734316153" duration="4006000" />
+      <workItem from="1644748053516" duration="8519000" />
+      <workItem from="1644840410458" duration="6497000" />
+      <workItem from="1644928415372" duration="607000" />
+      <workItem from="1644929872605" duration="2837000" />
+      <workItem from="1644936080351" duration="2704000" />
+      <workItem from="1645084223000" duration="9568000" />
+      <workItem from="1645185438708" duration="1279000" />
+      <workItem from="1645272419598" duration="1989000" />
+      <workItem from="1645798750639" duration="210000" />
+      <workItem from="1645838972616" duration="210000" />
+      <workItem from="1646312057658" duration="4114000" />
+      <workItem from="1646751940445" duration="598000" />
+      <workItem from="1647259706804" duration="1820000" />
+      <workItem from="1647346206559" duration="646000" />
+      <workItem from="1649257278271" duration="2843000" />
+      <workItem from="1649333250515" duration="6855000" />
+      <workItem from="1649472601735" duration="862000" />
+      <workItem from="1649492087935" duration="1987000" />
+      <workItem from="1649639592885" duration="1215000" />
+      <workItem from="1650464562927" duration="34846000" />
+      <workItem from="1650641609491" duration="1367000" />
+      <workItem from="1650684346416" duration="1532000" />
+      <workItem from="1650716339302" duration="1545000" />
+      <workItem from="1650770306931" duration="563000" />
+      <workItem from="1650775992688" duration="713000" />
+      <workItem from="1650778797979" duration="34000" />
+      <workItem from="1650973204843" duration="601000" />
+      <workItem from="1651223918954" duration="776000" />
+      <workItem from="1651373854190" duration="129000" />
+      <workItem from="1651498022585" duration="2774000" />
+      <workItem from="1651631877788" duration="3921000" />
+      <workItem from="1651666868760" duration="1447000" />
+      <workItem from="1651714860090" duration="115000" />
+      <workItem from="1651752635921" duration="1214000" />
+      <workItem from="1651803811552" duration="46000" />
+      <workItem from="1651832422735" duration="4572000" />
+      <workItem from="1651933435054" duration="1283000" />
+      <workItem from="1651985510715" duration="627000" />
+      <workItem from="1652147617463" duration="1234000" />
+      <workItem from="1652151703161" duration="71000" />
+      <workItem from="1652361953830" duration="2225000" />
+      <workItem from="1652426046663" duration="553000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1650598761608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1650598761608" />
+    <state x="736" y="386" width="448" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1650607715597">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="386" width="448" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1650607715597" />
+    <state x="667" y="223" key="FileChooserDialogImpl" timestamp="1651863945143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="223" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1651863945143" />
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom" timestamp="1650622923788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1650622923788" />
+    <state width="1877" height="287" key="GridCell.Tab.0.center" timestamp="1650622923788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1650622923788" />
+    <state width="1877" height="287" key="GridCell.Tab.0.left" timestamp="1650622923788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1650622923788" />
+    <state width="1877" height="287" key="GridCell.Tab.0.right" timestamp="1650622923788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1650622923788" />
+    <state width="1877" height="301" key="GridCell.Tab.1.bottom" timestamp="1650622923779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="301" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1650622923779" />
+    <state width="1877" height="301" key="GridCell.Tab.1.center" timestamp="1650622923779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="301" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1650622923779" />
+    <state width="1877" height="301" key="GridCell.Tab.1.left" timestamp="1650622923778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="301" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1650622923778" />
+    <state width="1877" height="301" key="GridCell.Tab.1.right" timestamp="1650622923779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="301" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1650622923779" />
+    <state x="267" y="0" key="SettingsEditor" timestamp="1652148200611">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="267" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1652148200611" />
+    <state width="498" height="477" key="SwitcherDM" timestamp="1650549211479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="477" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1650549211479" />
+    <state x="561" y="196" width="798" height="649" key="find.popup" timestamp="1652148164505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="561" y="196" width="798" height="649" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1652148164505" />
+    <state x="511" y="218" width="896" height="820" key="search.everywhere.popup" timestamp="1652365790040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="511" y="218" width="896" height="820" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1652365790040" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/concurrent/src/main/java/cn/enjoyedu/ch1/threadlocal/ThreadLocalOOM.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/concurrent/src/main/java/cn/enjoyedu/ch1/threadlocal/ThreadLocalOOM.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/concurrent/src/main/java/cn/enjoyedu/ch2/forkjoin/FindDirsFiles.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/concurrent/src/main/java/cn/enjoyedu/ch7/safeclass/SenyangTest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/concurrent/src/main/java/cn/enjoyedu/ch7/safeclass/SenyangTest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

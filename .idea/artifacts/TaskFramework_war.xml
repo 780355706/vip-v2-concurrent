@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TaskFramework:war">
+    <output-path>$PROJECT_DIR$/TaskFramework/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>TaskFramework</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="TaskFramework.war">
+      <element id="artifact" artifact-name="TaskFramework:war exploded" />
+    </root>
+  </artifact>
+</component>
