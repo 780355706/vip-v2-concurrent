@@ -6,15 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6635503-e218-4299-a5e6-1b4126851bd5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="a6635503-e218-4299-a5e6-1b4126851bd5" name="Default" comment="1. Git项目引入配置文件自动更新；&#10;2. ConcurrentHashMap17 &amp; 18 注释">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaskFramework/TaskFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TaskFramework/TaskFramework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/concurrent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent/concurrent.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/src/main/java/cn/enjoyedu/ch5/src/ConcurrentHashMap17.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent/src/main/java/cn/enjoyedu/ch5/src/ConcurrentHashMap17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/src/main/java/cn/enjoyedu/ch5/src/ConcurrentHashMap18.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent/src/main/java/cn/enjoyedu/ch5/src/ConcurrentHashMap18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deadlock/deadlock.iml" beforeDir="false" afterPath="$PROJECT_DIR$/deadlock/deadlock.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -436,8 +429,16 @@
       <workItem from="1652151703161" duration="71000" />
       <workItem from="1652361953830" duration="2225000" />
       <workItem from="1652426046663" duration="553000" />
-      <workItem from="1654149387639" duration="406000" />
+      <workItem from="1654149387639" duration="972000" />
     </task>
+    <task id="LOCAL-00001" summary="1. Git项目引入配置文件自动更新；&#10;2. ConcurrentHashMap17 &amp; 18 注释">
+      <created>1654149880058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654149880058</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -452,6 +453,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1. Git项目引入配置文件自动更新；&#10;2. ConcurrentHashMap17 &amp; 18 注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Git项目引入配置文件自动更新；&#10;2. ConcurrentHashMap17 &amp; 18 注释" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="669" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1650598761608">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -461,14 +466,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="736" y="386" width="448" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1650607715597" />
-    <state x="461" y="85" key="CommitChangelistDialog2" timestamp="1654149782550">
+    <state x="461" y="85" key="CommitChangelistDialog2" timestamp="1654149879168">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="85" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1654149782550" />
-    <state x="184" y="85" key="DiffContextDialog" timestamp="1654149781227">
+    <state x="461" y="85" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1654149879168" />
+    <state x="184" y="85" key="DiffContextDialog" timestamp="1654149846616">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="85" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654149781227" />
+    <state x="184" y="85" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654149846616" />
     <state x="667" y="223" key="FileChooserDialogImpl" timestamp="1654149399039">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -513,6 +518,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="477" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1650549211479" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1654149881845">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1654149881845" />
     <state x="754" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1654149763027">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
